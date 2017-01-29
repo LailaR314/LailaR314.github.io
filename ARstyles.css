@@ -1,0 +1,118 @@
+body {
+  background-color:linen;
+}
+
+p {
+    border: 5px solid red;
+}
+h1 {
+    font-size: 250%;
+}
+h2 {
+    font-size: 250%;
+}
+h3 {
+    font-size: 250%;
+}
+h4 {
+    font-size: 250%;
+}
+
+h5 {
+    font-size: 250%;
+}
+
+h6 {
+    font-size: 250%;
+}
+
+h7 {
+    font-size: 250%;
+}
+
+body {
+    color: darkgreen;
+}
+
+
+h1 {
+    color: crimson; font-family: 'Kumar One', cursive;
+}
+
+h2 {
+    color: crimson;
+}
+
+h3 {
+    color: crimson;
+}
+
+h4 {
+    color: crimson;
+}
+
+h5 {
+    color: crimson;
+}
+
+h6 {
+    color: crimson;
+}
+
+h7 {
+    color: crimson;
+}
+
+img {
+  height:200px;
+  width: auto;
+}
+
+#welcome {
+  color: blue;
+}
+
+li {
+  color: green;
+}
+
+.animal{
+  color: yellow;
+}
+
+.mammal {
+  color:red;
+}
+
+.bird {
+  color: blue;
+}
+
+.fish {
+  color: orange;
+}
+
+a{
+  display: block
+}
+
+a::first-letter {
+  color:blue
+  font size: 24px;
+}
+a:visited {
+  color: purple
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h1 span {
+    background-color: green;
+}
+
+li {
+  background-color: gray
+}
